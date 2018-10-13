@@ -230,32 +230,32 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:polcaes@gmail.com"
+    link = "mailto:marta.bofill.roig@upc.edu"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/polcastellano_"
+    link = "//twitter.com/martabofillr"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/pcastellanoescuder"
+    link = "//github.com/MartaBofillRoig"
     
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/pol-castellano-escuder-50bb10127/"
+#  [[params.social]]
+#    icon = "linkedin"
+#    icon_pack = "fa"
+#    link = "//linkedin.com/in/pol-castellano-escuder-50bb10127/"
     
   [[params.social]]
     icon = "orcid"
     icon_pack = "ai"
-    link = "//orcid.org/0000-0001-6466-877X"
+    link = "//orcid.org/0000-0002-4400-7541"
     
   [[params.social]]
-    icon = "stack-overflow"
+    icon = "CompARE"
     icon_pack = "fa"
-    link = "//stackoverflow.com/users/10202862/pol-castellano"
+    link = "//cinna.upc.edu/compare/"
 
 
   # Link to a PDF of your resume/CV from the About widget.
