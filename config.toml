@@ -6,10 +6,10 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://martabofillroig.github.io/"
 
 # Title of your site
-title = "Marta Bofill Roig"
+title = "MBofillRoig"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
