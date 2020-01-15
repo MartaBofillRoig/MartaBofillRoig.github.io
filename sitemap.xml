@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>/publication/bcg_2020/</loc>
+      <lastmod>2020-01-10T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tutorial/example/</loc>
       <lastmod>2018-09-09T00:00:00+02:00</lastmod>
     </url>
@@ -21,14 +29,6 @@
     <url>
     
       <loc>/publication/bg_2018/</loc>
-      <lastmod>2018-07-03T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/publication/bcg_2020/</loc>
       <lastmod>2018-07-03T00:00:00+02:00</lastmod>
     </url>
     
@@ -110,7 +110,7 @@
     <url>
     
       <loc>/publication_types/3/</loc>
-      <lastmod>2018-07-03T00:00:00+02:00</lastmod>
+      <lastmod>2020-01-10T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     

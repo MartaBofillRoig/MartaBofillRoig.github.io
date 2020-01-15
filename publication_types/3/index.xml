@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 03 Jul 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Decision tool and Sample Size Calculator for Composite Endpoints</title>
+      <link>/publication/bcg_2020/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bcg_2020/</guid>
+      <description>Summary points: - This article considers the combination of two binary or two time-to-event endpoints to form the primary composite endpoint for leading a trial. - It discusses the relative efficiency of choosing a composite endpoint over one of its components in terms of: the frequencies of observing each component; the relative treatment effect of the tested therapy; and the association between both components. - We highlight the very important role of the association between components in choosing the most efficient endpoint to use as primary.</description>
+    </item>
     
     <item>
       <title>A new approach for sizing trials with composite binary endpoints using anticipated marginal values and accounting for the correlation between components</title>
@@ -18,15 +27,6 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/bg_2018/</guid>
-      <description>Abstract: Composite binary endpoints are increasingly used as primary endpoints in clinical trials. When designing a trial, it is crucial to determine the appropriate sample size for testing the statistical differences between treatment groups for the primary endpoint. As shown in this work, when using a composite binary endpoint to size a trial, one needs to specify the event rates and the effect sizes of the composite components as well as the correlation between them.</description>
-    </item>
-    
-    <item>
-      <title>Decision tool and Sample Size Calculator for Composite Endpoints</title>
-      <link>/publication/bcg_2020/</link>
-      <pubDate>Tue, 03 Jul 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/bcg_2020/</guid>
       <description>Abstract: Composite binary endpoints are increasingly used as primary endpoints in clinical trials. When designing a trial, it is crucial to determine the appropriate sample size for testing the statistical differences between treatment groups for the primary endpoint. As shown in this work, when using a composite binary endpoint to size a trial, one needs to specify the event rates and the effect sizes of the composite components as well as the correlation between them.</description>
     </item>
     

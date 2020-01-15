@@ -11,6 +11,21 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Decision tool and Sample Size Calculator for Composite Endpoints</title>
+      <link>/publication/bcg_2020/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bcg_2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary points:&lt;/strong&gt;
+- This article considers the combination of two binary or two time-to-event endpoints to form the primary composite endpoint for leading a trial.
+- It discusses the relative efficiency of choosing a composite endpoint over one of its components in terms of: the frequencies of observing each component; the relative treatment effect of the tested therapy; and the association between both components.
+- We highlight the very important role of the association between components in choosing the most efficient endpoint to use as primary.
+- For better grounded future trials, we recommend trialists to always reporting the association between components of the composite endpoint.
+- Common fallacies to note when using composite endpoints: i) composite endpoints always imply higher power; ii) treatment effect on the composite endpoint is similar to the average effects of its components; and iii) the probability of observing the primary endpoint increases significantly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Page</title>
       <link>/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
@@ -36,16 +51,6 @@
       <pubDate>Tue, 03 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>/publication/bg_2018/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Composite binary endpoints are increasingly used as primary endpoints in clinical trials. When designing a trial, it is crucial to determine the appropriate sample size for testing the statistical differences between treatment groups for the primary endpoint. As shown in this work, when using a composite binary endpoint to size a trial, one needs to specify the event rates and the effect sizes of the composite components as well as the correlation between them. In practice, the marginal parameters of the components can be obtained from previous studies or pilot trials, however, the correlation is often not previously reported and thus usually unknown. We first show that the sample size for composite binary endpoints is strongly dependent on the correlation and, second, that slight deviations in the prior information on the marginal parameters may result in underpowered trials for achieving the study objectives at a pre-specified significance level. We propose a general strategy for calculating the required sample size when the correlation is not specified, and accounting for uncertainty in the marginal parameter values. We present the web platform CompARE to characterize composite endpoints and to calculate the sample size just as we propose in this paper. We evaluate the performance of the proposal with a simulation study, and illustrate it by means of a real case study using CompARE.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Decision tool and Sample Size Calculator for Composite Endpoints</title>
-      <link>/publication/bcg_2020/</link>
-      <pubDate>Tue, 03 Jul 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/publication/bcg_2020/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Composite binary endpoints are increasingly used as primary endpoints in clinical trials. When designing a trial, it is crucial to determine the appropriate sample size for testing the statistical differences between treatment groups for the primary endpoint. As shown in this work, when using a composite binary endpoint to size a trial, one needs to specify the event rates and the effect sizes of the composite components as well as the correlation between them. In practice, the marginal parameters of the components can be obtained from previous studies or pilot trials, however, the correlation is often not previously reported and thus usually unknown. We first show that the sample size for composite binary endpoints is strongly dependent on the correlation and, second, that slight deviations in the prior information on the marginal parameters may result in underpowered trials for achieving the study objectives at a pre-specified significance level. We propose a general strategy for calculating the required sample size when the correlation is not specified, and accounting for uncertainty in the marginal parameter values. We present the web platform CompARE to characterize composite endpoints and to calculate the sample size just as we propose in this paper. We evaluate the performance of the proposal with a simulation study, and illustrate it by means of a real case study using CompARE.&lt;/p&gt;
 </description>
     </item>
