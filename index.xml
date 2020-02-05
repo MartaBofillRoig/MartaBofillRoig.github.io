@@ -11,6 +11,16 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A general class of two-sample statistics for binary and time-to-event outcomes</title>
+      <link>/publication/bg_2020/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bg_2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We propose a class of two-sample statistics for testing the equality of proportions and the equality of survival functions. We build our proposal on a weighted combination of a score test for the difference in proportions and a Weighted Kaplan-Meier statistic-based test for the difference of survival functions. The proposed statistics are fully non-parametric and do not rely on the proportional hazards assumption for the survival outcome. We present the asymptotic distribution of these statistics, propose a variance estimator and show their asymptotic properties under fixed and local alternatives. We discuss different choices of weights including those that control the relative relevance of each outcome and emphasize the type of difference to be detected in the survival outcome. We evaluate the performance of these statistics with a simulation study, and illustrate their use with a randomized phase III cancer vaccine trial. We have implemented the proposed statistics in the R package SurvBin, available on GitHub (&lt;a href=&#34;https://github.com/MartaBofillRoig/SurvBin&#34; target=&#34;_blank&#34;&gt;https://github.com/MartaBofillRoig/SurvBin&lt;/a&gt;).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Decision tool and Sample Size Calculator for Composite Endpoints</title>
       <link>/publication/bcg_2020/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0100</pubDate>

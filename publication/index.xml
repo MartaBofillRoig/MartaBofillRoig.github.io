@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>A general class of two-sample statistics for binary and time-to-event outcomes</title>
+      <link>/publication/bg_2020/</link>
+      <pubDate>Tue, 04 Feb 2020 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/bg_2020/</guid>
+      <description>Abstract: We propose a class of two-sample statistics for testing the equality of proportions and the equality of survival functions. We build our proposal on a weighted combination of a score test for the difference in proportions and a Weighted Kaplan-Meier statistic-based test for the difference of survival functions. The proposed statistics are fully non-parametric and do not rely on the proportional hazards assumption for the survival outcome. We present the asymptotic distribution of these statistics, propose a variance estimator and show their asymptotic properties under fixed and local alternatives.</description>
+    </item>
+    
+    <item>
       <title>Decision tool and Sample Size Calculator for Composite Endpoints</title>
       <link>/publication/bcg_2020/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0100</pubDate>
