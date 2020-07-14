@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Llampecs de Ciència</title>
+      <link>/project/llampecs/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/project/llampecs/</guid>
+      <description>Llampecs de Ciència es un proyecto de divulgación promovido desde el grupo de investigación GRBIO.</description>
+    </item>
     
     <item>
       <title>CompARE</title>
