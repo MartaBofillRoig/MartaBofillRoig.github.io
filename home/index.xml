@@ -83,6 +83,7 @@
       <guid>/home/software/</guid>
       <description> CompARE: Sample size and effect size calculation for composite endpoints. [GitHub] [website] [Shiny-app]
  Survbin: Two-sample statistics for binary and time-to-event outcomes. [GitHub] [website]
+ survmixer: Design of clinical trials with survival endpoints based on binary response. [GitHub] [website]
  pum!: Shiny app to explore Florence Nightingale&amp;rsquo;s data in Crimean War. [GitHub] [Shiny-app] [YouTube-Tutorial]
   </description>
     </item>
