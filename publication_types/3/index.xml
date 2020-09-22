@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Design of phase III trials with long-term survival outcomes based on short-term binary results</title>
+      <link>/publication/bsg_2020/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0200</pubDate>
+      
+      <guid>/publication/bsg_2020/</guid>
+      <description>Abstract: Pathologic complete response (pCR) is a common primary endpoint for a phase II trial or even accelerated approval of neoadjuvant cancer therapy. If granted, a two-arm confirmatory trial is often required to demonstrate the efficacy with a time-to-event outcome such as overall survival. However, the design of a subsequent phase III trial based on prior information on the pCR effect is not straightforward. Aiming at designing such phase III trials with overall survival as primary endpoint using pCR information from previous trials, we consider a mixture model that incorporates both the survival and the binary endpoints.</description>
+    </item>
     
     <item>
       <title>A general class of two-sample statistics for binary and time-to-event outcomes</title>
