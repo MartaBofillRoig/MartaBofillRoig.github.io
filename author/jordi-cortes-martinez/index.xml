@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jordi Cortes-Martinez | MBofillRoig</title>
+    <link>/author/jordi-cortes-martinez/</link>
+      <atom:link href="/author/jordi-cortes-martinez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jordi Cortes-Martinez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Jordi Cortes-Martinez</title>
+      <link>/author/jordi-cortes-martinez/</link>
+    </image>
+    
+    <item>
+      <title>Decision tool and Sample Size Calculator for Composite Endpoints</title>
+      <link>/publication/journal-article/bcg_2020/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0100</pubDate>
+      <guid>/publication/journal-article/bcg_2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Summary points:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This article considers the combination of two binary or two time-to-event endpoints to form the primary composite endpoint for leading a trial.&lt;/li&gt;
+&lt;li&gt;It discusses the relative efficiency of choosing a composite endpoint over one of its components in terms of: the frequencies of observing each component; the relative treatment effect of the tested therapy; and the association between both components.&lt;/li&gt;
+&lt;li&gt;We highlight the very important role of the association between components in choosing the most efficient endpoint to use as primary.&lt;/li&gt;
+&lt;li&gt;For better grounded future trials, we recommend trialists to always reporting the association between components of the composite endpoint.&lt;/li&gt;
+&lt;li&gt;Common fallacies to note when using composite endpoints: i) composite endpoints always imply higher power; ii) treatment effect on the composite endpoint is similar to the average effects of its components; and iii) the probability of observing the primary endpoint increases significantly.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

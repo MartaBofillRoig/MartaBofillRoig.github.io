@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CompARE | MBofillRoig</title>
+    <link>/tag/compare/</link>
+      <atom:link href="/tag/compare/index.xml" rel="self" type="application/rss+xml" />
+    <description>CompARE</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>CompARE</title>
+      <link>/tag/compare/</link>
+    </image>
+    
+    <item>
+      <title>CompARE</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
