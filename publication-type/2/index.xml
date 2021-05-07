@@ -5,12 +5,22 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Tue, 03 Jul 2018 00:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0200</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Design of phase III trials with long-term survival outcomes based on short-term binary results</title>
+      <link>/publication/journal-article/bsg_2020/</link>
+      <pubDate>Sat, 29 Aug 2020 00:00:00 +0200</pubDate>
+      <guid>/publication/journal-article/bsg_2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 
+Pathologic complete response (pCR) is a common primary endpoint for a phase II trial or even accelerated approval of neoadjuvant cancer therapy. If granted, a two-arm confirmatory trial is often required to demonstrate the efficacy with a time-to-event outcome such as overall survival. However, the design of a subsequent phase III trial based on prior information on the pCR effect is not straightforward. Aiming at designing such phase III trials with overall survival as primary endpoint using pCR information from previous trials, we consider a mixture model that incorporates both the survival and the binary endpoints. We propose to base the comparison between arms on the difference of the restricted mean survival times, and show how the effect size and sample size for overall survival rely on the probability of the binary response and the survival distribution by response status, both for each treatment arm. Moreover, we provide the sample size calculation under different scenarios and accompany them with an R package where all the computations have been implemented. We evaluate our proposal with a simulation study, and illustrate its application through a neoadjuvant breast cancer trial.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A new approach for sizing trials with composite binary endpoints using anticipated marginal values and accounting for the correlation between components</title>

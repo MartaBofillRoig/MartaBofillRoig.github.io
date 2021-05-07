@@ -33,7 +33,7 @@
   </url>
   
   <url>
-    <loc>/publication-type/3/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2020-08-29T00:00:00+02:00</lastmod>
   </url>
   
@@ -93,6 +93,11 @@
   </url>
   
   <url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2020-02-04T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/journal-article/bg_2020/</loc>
     <lastmod>2020-02-04T00:00:00+01:00</lastmod>
   </url>
@@ -140,11 +145,6 @@
   <url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2018-07-03T00:00:00+02:00</lastmod>
   </url>
   
   <url>
