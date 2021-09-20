@@ -75,6 +75,15 @@
     </item>
     
     <item>
+      <title>A class of two-sample nonparametric statistics for binary and time-to-event outcomes</title>
+      <link>/publication/journal-article/bg_2020/</link>
+      <pubDate>Sat, 04 Sep 2021 00:00:00 +0200</pubDate>
+      <guid>/publication/journal-article/bg_2020/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We propose a class of two-sample statistics for testing the equality of proportions and the equality of survival functions. We build our proposal on a weighted combination of a score test for the difference in proportions and a Weighted Kaplan-Meier statistic-based test for the difference of survival functions. The proposed statistics are fully non-parametric and do not rely on the proportional hazards assumption for the survival outcome. We present the asymptotic distribution of these statistics, propose a variance estimator and show their asymptotic properties under fixed and local alternatives. We discuss different choices of weights including those that control the relative relevance of each outcome and emphasize the type of difference to be detected in the survival outcome. We evaluate the performance of these statistics with a simulation study, and illustrate their use with a randomized phase III cancer vaccine trial. We have implemented the proposed statistics in the R package SurvBin, available on GitHub (&lt;a href=&#34;https://github.com/MartaBofillRoig/SurvBin)&#34;&gt;https://github.com/MartaBofillRoig/SurvBin)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Design of phase III trials with long-term survival outcomes based on short-term binary results</title>
       <link>/publication/journal-article/bsg_2020/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0200</pubDate>
@@ -90,15 +99,6 @@ Pathologic complete response (pCR) is a common primary endpoint for a phase II t
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0200</pubDate>
       <guid>/project/llampecs/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>A general class of two-sample statistics for binary and time-to-event outcomes</title>
-      <link>/publication/journal-article/bg_2020/</link>
-      <pubDate>Tue, 04 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>/publication/journal-article/bg_2020/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; We propose a class of two-sample statistics for testing the equality of proportions and the equality of survival functions. We build our proposal on a weighted combination of a score test for the difference in proportions and a Weighted Kaplan-Meier statistic-based test for the difference of survival functions. The proposed statistics are fully non-parametric and do not rely on the proportional hazards assumption for the survival outcome. We present the asymptotic distribution of these statistics, propose a variance estimator and show their asymptotic properties under fixed and local alternatives. We discuss different choices of weights including those that control the relative relevance of each outcome and emphasize the type of difference to be detected in the survival outcome. We evaluate the performance of these statistics with a simulation study, and illustrate their use with a randomized phase III cancer vaccine trial. We have implemented the proposed statistics in the R package SurvBin, available on GitHub (&lt;a href=&#34;https://github.com/MartaBofillRoig/SurvBin)&#34;&gt;https://github.com/MartaBofillRoig/SurvBin)&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -145,7 +145,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-951784326&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-782643519&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -155,7 +155,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-951784326&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-782643519&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
