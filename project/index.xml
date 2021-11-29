@@ -2,45 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | MBofillRoig</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://academic-demo.netlify.app/project/</link>
+      <atom:link href="https://academic-demo.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2020</copyright><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0200</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://academic-demo.netlify.app/project/</link>
     </image>
     
     <item>
       <title>Llampecs de Ciència</title>
-      <link>/project/llampecs/</link>
-      <pubDate>Sat, 27 Jun 2020 00:00:00 +0200</pubDate>
-      <guid>/project/llampecs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CompARE</title>
-      <link>/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>/project/internal-project/</guid>
+      <link>https://academic-demo.netlify.app/project/llampecs/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/llampecs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EU-PEARL</title>
-      <link>/project/eupearl/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>/project/eupearl/</guid>
+      <link>https://academic-demo.netlify.app/project/eupearl/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/eupearl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GRBIO</title>
-      <link>/project/grbio/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0200</pubDate>
-      <guid>/project/grbio/</guid>
+      <link>https://academic-demo.netlify.app/project/grbio/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/grbio/</guid>
       <description></description>
     </item>
     

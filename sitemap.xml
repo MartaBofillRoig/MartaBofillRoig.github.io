@@ -1,250 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/courses/example/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/courses/example/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/courses/example/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2021-09-04T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/publication-type/2/</loc><lastmod>2021-09-04T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/publication/journal-article/bg_2020/</loc>
-    <lastmod>2021-09-04T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/publication/journal-article/bg_2020/</loc><lastmod>2021-09-04T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/authors/</loc>
-    <lastmod>2021-09-04T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/authors/</loc><lastmod>2021-09-04T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/author/guadalupe-gomez-melis/</loc>
-    <lastmod>2021-09-04T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/author/guadalupe-gomez-melis/</loc><lastmod>2021-09-04T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/author/marta-bofill-roig/</loc>
-    <lastmod>2021-09-04T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/author/marta-bofill-roig/</loc><lastmod>2021-09-04T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-09-04T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/publication_types/</loc><lastmod>2021-09-04T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2021-09-04T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/publication/</loc><lastmod>2021-09-04T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/publication/journal-article/bsg_2020/</loc>
-    <lastmod>2020-08-29T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/courses/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/author/yu-shen/</loc>
-    <lastmod>2020-08-29T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/courses/example/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/project/llampecs/</loc>
-    <lastmod>2020-06-27T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/tag/outreach/</loc>
-    <lastmod>2020-06-27T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/project/</loc>
-    <lastmod>2020-06-27T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-06-27T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/author/marta-bofill-roig/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2020-01-10T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/publication/journal-article/bcg_2020/</loc>
-    <lastmod>2020-01-10T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/author/jordi-cortes-martinez/</loc>
-    <lastmod>2020-01-10T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/post/2020-12-01-r-rmarkdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
   <url>
-    <loc>/author/marta-bofill-roig/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/tag/plot/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
   <url>
-    <loc>/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/category/r/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
   <url>
-    <loc>/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/tag/r-markdown/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
   <url>
-    <loc>/publication/journal-article/bg_2018/</loc>
-    <lastmod>2018-07-03T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/tag/regression/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod></url>
   <url>
-    <loc>/publication/journal-article/bg_2017/</loc>
-    <lastmod>2017-10-12T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/publication/journal-article/bsg_2020/</loc><lastmod>2020-08-29T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/tag/compare/</loc>
-    <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/author/yu-shen/</loc><lastmod>2020-08-29T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/project/llampecs/</loc><lastmod>2020-06-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/tag/eu-pearl/</loc>
-    <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/tag/outreach/</loc><lastmod>2020-06-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/project/eupearl/</loc>
-    <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/project/</loc><lastmod>2020-06-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/tag/grbio/</loc>
-    <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/publication-type/3/</loc><lastmod>2020-01-10T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/project/grbio/</loc>
-    <lastmod>2016-04-27T00:00:00+02:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/publication/journal-article/bcg_2020/</loc><lastmod>2020-01-10T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/author/jordi-cortes-martinez/</loc><lastmod>2020-01-10T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/post/writing-technical-content/</loc><lastmod>2019-07-12T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/post/jupyter/</loc><lastmod>2019-09-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/publication/journal-article/bg_2018/</loc><lastmod>2018-07-03T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/publication/journal-article/bg_2017/</loc><lastmod>2017-10-12T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/tag/eu-pearl/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/tag/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/project/eupearl/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/category/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/tag/grbio/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/tag/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
+    <loc>https://academic-demo.netlify.app/project/grbio/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>/tag/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-</urlset>
+    <loc>https://academic-demo.netlify.app/admin/</loc></url></urlset>
