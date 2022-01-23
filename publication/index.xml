@@ -5,12 +5,21 @@
     <link>https://academic-demo.netlify.app/publication/</link>
       <atom:link href="https://academic-demo.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://academic-demo.netlify.app/publication/</link>
     </image>
+    
+    <item>
+      <title>Platform trials and the future of evaluating therapeutic behavioural interventions</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/bp_2022/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/bp_2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Therapeutic interventions are typically evaluated in individual, parallel group trials, which are time consuming and provide limited information on comparative efficacy. Clinical psychology should leverage advances in other fields to improve and accelerate the evaluation process by adopting more efficient platform trials.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On model-based time trend adjustments in platform trials with non-concurrent controls</title>
