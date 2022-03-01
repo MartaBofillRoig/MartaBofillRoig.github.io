@@ -16,9 +16,23 @@
   <url>
     <loc>https://academic-demo.netlify.app/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/publication-type/2/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/publication-type/2/</loc><lastmod>2022-02-04T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/authors/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
+    <loc>https://academic-demo.netlify.app/publication/journal-article/bgpk_2022/</loc><lastmod>2022-02-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/authors/</loc><lastmod>2022-02-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/author/franz-koenig/</loc><lastmod>2022-02-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/author/guadalupe-gomez-melis/</loc><lastmod>2022-02-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/author/marta-bofill-roig/</loc><lastmod>2022-02-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/author/martin-posch/</loc><lastmod>2022-02-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/publication_types/</loc><lastmod>2022-02-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/publication/</loc><lastmod>2022-02-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/author/carmine-pariante/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
   <url>
@@ -26,15 +40,7 @@
   <url>
     <loc>https://academic-demo.netlify.app/author/j-jaime-miranda/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/author/marta-bofill-roig/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/author/martin-posch/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/publication/journal-article/bp_2022/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/publication_types/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/publication/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/author/stefan-m-gold/</loc><lastmod>2022-01-04T00:00:00+00:00</lastmod></url>
   <url>
@@ -43,8 +49,6 @@
     <loc>https://academic-demo.netlify.app/author/dominic-magirr/</loc><lastmod>2021-12-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/author/ekkehard-glimm/</loc><lastmod>2021-12-04T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/author/franz-koenig/</loc><lastmod>2021-12-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/author/katharina-hees/</loc><lastmod>2021-12-04T00:00:00+00:00</lastmod></url>
   <url>
@@ -59,8 +63,6 @@
     <loc>https://academic-demo.netlify.app/author/peter-mesenbrink/</loc><lastmod>2021-12-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/publication/journal-article/bg_2020/</loc><lastmod>2021-09-04T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/author/guadalupe-gomez-melis/</loc><lastmod>2021-09-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/courses/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
   <url>
@@ -100,12 +102,6 @@
   <url>
     <loc>https://academic-demo.netlify.app/author/yu-shen/</loc><lastmod>2020-08-29T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>https://academic-demo.netlify.app/project/llampecs/</loc><lastmod>2020-06-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/tag/outreach/</loc><lastmod>2020-06-27T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>https://academic-demo.netlify.app/project/</loc><lastmod>2020-06-27T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>https://academic-demo.netlify.app/publication-type/3/</loc><lastmod>2020-01-10T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/publication/journal-article/bcg_2020/</loc><lastmod>2020-01-10T00:00:00+00:00</lastmod></url>
@@ -127,6 +123,8 @@
     <loc>https://academic-demo.netlify.app/project/eupearl/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/project/grbio/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/tag/research/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod></url>
   <url>

@@ -128,6 +128,16 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Adaptive clinical trial designs with selection of composite endpoints and sample size reassessment</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/bgpk_2022/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/bgpk_2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; For randomized clinical trials where a single, primary, binary endpoint would require unfeasibly large sample sizes, composite endpoints are widely chosen as the primary endpoint. Despite being commonly used, composite endpoints entail challenges in designing and interpreting results. Given that the components may be of different relevance and have different effect sizes, the choice of components must be made carefully. Especially, sample size calculations for composite binary endpoints depend not only on the anticipated effect sizes and event probabilities of the composite components, but also on the correlation between them. However, information on the correlation between endpoints is usually not reported in the literature which can be an obstacle for planning of future sound trial design. 
+We consider two-arm randomized controlled trials with a primary composite binary endpoint and an endpoint that consists only of the clinically more important component of the composite endpoint. We propose a trial design that allows an adaptive modification of the primary endpoint based on blinded information obtained at an interim analysis. Especially, we consider a decision rule to select between a composite endpoint and its most relevant component as primary endpoint. The decision rule chooses the endpoint with the lower estimated required sample size. Additionally, the sample size is reassessed using the estimated event probabilities and correlation, and the expected effect sizes of the composite components. We investigate the statistical power and significance level under the proposed design through simulations. We show that the adaptive design is equally or more powerful than designs without adaptive modification on the primary endpoint. Besides, the targeted power is achieved even if the correlation is misspecified at the planning stage while maintaining the type 1 error. All the computations are implemented in R and illustrated by means of a peritoneal dialysis trial.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Platform trials and the future of evaluating therapeutic behavioural interventions</title>
       <link>https://academic-demo.netlify.app/publication/journal-article/bp_2022/</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
@@ -275,14 +285,6 @@ Pathologic complete response (pCR) is a common primary endpoint for a phase II t
     </item>
     
     <item>
-      <title>Llampecs de Ciència</title>
-      <link>https://academic-demo.netlify.app/project/llampecs/</link>
-      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/llampecs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Decision tool and Sample Size Calculator for Composite Endpoints</title>
       <link>https://academic-demo.netlify.app/publication/journal-article/bcg_2020/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
@@ -326,7 +328,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-935674821&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-287965314&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -336,7 +338,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-935674821&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-287965314&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
