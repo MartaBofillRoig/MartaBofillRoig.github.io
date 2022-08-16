@@ -5,12 +5,24 @@
     <link>https://academic-demo.netlify.app/author/franz-koenig/</link>
       <atom:link href="https://academic-demo.netlify.app/author/franz-koenig/index.xml" rel="self" type="application/rss+xml" />
     <description>Franz Koenig</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Franz Koenig</title>
       <link>https://academic-demo.netlify.app/author/franz-koenig/</link>
     </image>
+    
+    <item>
+      <title>On model-based time trend adjustments in platform trials with non-concurrent controls</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/bp_2021/</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/bp_2021/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Platform trials can evaluate the efficacy of several treatments compared to a control. The number of treatments is not fixed, as arms may be added or removed as the trial progresses. Platform trials are more efficient than independent parallel-group trials because of using shared control groups. For arms entering the trial later, not all patients in the control group are randomised concurrently. The control group is then divided into concurrent and non-concurrent controls. Using non-concurrent controls (NCC) can improve the trial&amp;rsquo;s efficiency, but can introduce bias due to time trends.
+We focus on a platform trial with two treatment arms and a common control arm. Assuming that the second treatment arm is added later, we assess the robustness of model-based approaches to adjust for time trends when using NCC. We consider approaches where time trends are modeled as linear or as a step function, with steps at times where arms enter or leave the trial. For trials with continuous or binary outcomes, we investigate the type 1 error (t1e) rate and power of testing the efficacy of the newly added arm under a range of scenarios. In addition to scenarios where time trends are equal across arms, we investigate settings with trends that are different or not additive in the model scale.
+A step function model fitted on data from all arms gives increased power while controlling the t1e, as long as the time trends are equal for the different arms and additive on the model scale. This holds even if the trend&amp;rsquo;s shape deviates from a step function if block randomisation is used. But if trends differ between arms or are not additive on the model scale, t1e control may be lost.
+The efficiency gained by using step function models to incorporate NCC can outweigh potential biases. However, the specifics of the trial, plausibility of different time trends, and robustness of results should be considered.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Commentary: Two approaches to analyze platform trials incorporating non-concurrent controls with a common assumption</title>
@@ -27,18 +39,6 @@
       <guid>https://academic-demo.netlify.app/publication/journal-article/bgpk_2022/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; For randomized clinical trials where a single, primary, binary endpoint would require unfeasibly large sample sizes, composite endpoints are widely chosen as the primary endpoint. Despite being commonly used, composite endpoints entail challenges in designing and interpreting results. Given that the components may be of different relevance and have different effect sizes, the choice of components must be made carefully. Especially, sample size calculations for composite binary endpoints depend not only on the anticipated effect sizes and event probabilities of the composite components, but also on the correlation between them. However, information on the correlation between endpoints is usually not reported in the literature which can be an obstacle for planning of future sound trial design. 
 We consider two-arm randomized controlled trials with a primary composite binary endpoint and an endpoint that consists only of the clinically more important component of the composite endpoint. We propose a trial design that allows an adaptive modification of the primary endpoint based on blinded information obtained at an interim analysis. Especially, we consider a decision rule to select between a composite endpoint and its most relevant component as primary endpoint. The decision rule chooses the endpoint with the lower estimated required sample size. Additionally, the sample size is reassessed using the estimated event probabilities and correlation, and the expected effect sizes of the composite components. We investigate the statistical power and significance level under the proposed design through simulations. We show that the adaptive design is equally or more powerful than designs without adaptive modification on the primary endpoint. Besides, the targeted power is achieved even if the correlation is misspecified at the planning stage while maintaining the type 1 error. All the computations are implemented in R and illustrated by means of a peritoneal dialysis trial.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On model-based time trend adjustments in platform trials with non-concurrent controls</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/bp_2021/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/bp_2021/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Platform trials can evaluate the efficacy of several treatments compared to a control. The number of treatments is not fixed, as arms may be added or removed as the trial progresses. Platform trials are more efficient than independent parallel-group trials because of using shared control groups. For arms entering the trial later, not all patients in the control group are randomised concurrently. The control group is then divided into concurrent and non-concurrent controls. Using non-concurrent controls (NCC) can improve the trial&amp;rsquo;s efficiency, but can introduce bias due to time trends.
-We focus on a platform trial with two treatment arms and a common control arm. Assuming that the second treatment arm is added later, we assess the robustness of model-based approaches to adjust for time trends when using NCC. We consider approaches where time trends are modeled as linear or as a step function, with steps at times where arms enter or leave the trial. For trials with continuous or binary outcomes, we investigate the type 1 error (t1e) rate and power of testing the efficacy of the newly added arm under a range of scenarios. In addition to scenarios where time trends are equal across arms, we investigate settings with trends that are different or not additive in the model scale.
-A step function model fitted on data from all arms gives increased power while controlling the t1e, as long as the time trends are equal for the different arms and additive on the model scale. This holds even if the trend&amp;rsquo;s shape deviates from a step function if block randomisation is used. But if trends differ between arms or are not additive on the model scale, t1e control may be lost.
-The efficiency gained by using step function models to incorporate NCC can outweigh potential biases. However, the specifics of the trial, plausibility of different time trends, and robustness of results should be considered.&lt;/p&gt;
 </description>
     </item>
     

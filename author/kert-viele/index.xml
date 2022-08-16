@@ -5,7 +5,7 @@
     <link>https://academic-demo.netlify.app/author/kert-viele/</link>
       <atom:link href="https://academic-demo.netlify.app/author/kert-viele/index.xml" rel="self" type="application/rss+xml" />
     <description>Kert Viele</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Kert Viele</title>
@@ -15,7 +15,7 @@
     <item>
       <title>On model-based time trend adjustments in platform trials with non-concurrent controls</title>
       <link>https://academic-demo.netlify.app/publication/journal-article/bp_2021/</link>
-      <pubDate>Sat, 04 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/journal-article/bp_2021/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Platform trials can evaluate the efficacy of several treatments compared to a control. The number of treatments is not fixed, as arms may be added or removed as the trial progresses. Platform trials are more efficient than independent parallel-group trials because of using shared control groups. For arms entering the trial later, not all patients in the control group are randomised concurrently. The control group is then divided into concurrent and non-concurrent controls. Using non-concurrent controls (NCC) can improve the trial&amp;rsquo;s efficiency, but can introduce bias due to time trends.
 We focus on a platform trial with two treatment arms and a common control arm. Assuming that the second treatment arm is added later, we assess the robustness of model-based approaches to adjust for time trends when using NCC. We consider approaches where time trends are modeled as linear or as a step function, with steps at times where arms enter or leave the trial. For trials with continuous or binary outcomes, we investigate the type 1 error (t1e) rate and power of testing the efficacy of the newly added arm under a range of scenarios. In addition to scenarios where time trends are equal across arms, we investigate settings with trends that are different or not additive in the model scale.
