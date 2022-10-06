@@ -138,6 +138,17 @@ We consider two-arm randomized controlled trials with a primary composite binary
     </item>
     
     <item>
+      <title>Design of Trials with Composite Endpoints with the R Package CompAREdesign</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/cbg_2022/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/cbg_2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt; 
+Composite endpoints are widely used as primary endpoints in clinical trials. Designing trials with time-to-event endpoints can be particularly challenging because the proportional hazard assumption usually does not hold when using a composite endpoint, even when the premise remains true for their components. Consequently, the conventional formulae for sample size calculation do not longer apply. We present the R package CompAREdesign by means of which the key elements of trial designs, such as the sample size and effect sizes, can be computed based on the information on the composite endpoint components. CompAREdesign provides the functions to 
+assess the sensitivity and robustness of design calculations to variations in initial values and assumptions. Furthermore, we describe other features of the package, such as functions for the design of trials with binary composite endpoints, and functions to simulate trials with composite endpoints under a wide range of scenarios.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>On model-based time trend adjustments in platform trials with non-concurrent controls</title>
       <link>https://academic-demo.netlify.app/publication/journal-article/bp_2021/</link>
       <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
@@ -336,7 +347,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-561743298&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-738962154&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -346,7 +357,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-561743298&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-738962154&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
