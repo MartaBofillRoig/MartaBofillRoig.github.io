@@ -5,12 +5,39 @@
     <link>https://academic-demo.netlify.app/author/katharina-hees/</link>
       <atom:link href="https://academic-demo.netlify.app/author/katharina-hees/index.xml" rel="self" type="application/rss+xml" />
     <description>Katharina Hees</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Katharina Hees</title>
       <link>https://academic-demo.netlify.app/author/katharina-hees/</link>
     </image>
+    
+    <item>
+      <title>On the use of non-concurrent controls in platform trials: A scoping review</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/bh_2022/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/bh_2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Platform trials gained popularity during the last few years as they increase flexibility compared to multi-arm trials by allowing new experimental arms entering when the trial already started. Using a shared control group in platform trials increases the trial efficiency compared to separate trials.
+Because of the later entry of some of the experimental treatment arms, the
+shared control group includes concurrent and non-concurrent control data. For a
+given experimental arm, non-concurrent controls refer to patients allocated to
+the control arm before the arm enters the trial, while concurrent controls
+refer to control patients that are randomised concurrently to the experimental
+arm. Using non-concurrent controls can result in bias in the estimate in case
+of time trends if the appropriate methodology is not used and the assumptions
+are not met. In this paper, we faced two main objectives. In the first, we
+aimed to identify the methods currently available for incorporating
+non-concurrent controls, clarify the key concepts and assumptions, and name the
+main characteristics of each method. For this purpose, we systematically
+searched research articles on methods to include non-concurrent controls. The
+second objective is to summarise the current regulatory view on non-concurrent
+controls to clarify the key concepts and current guidance. Therefore, we
+conducted a systematic search in regulatory guidelines regarding using
+non-concurrent controls and summarised the most relevant arguments and
+recommended methods. Finally, we discuss the advantages and potential caveats
+of using non-concurrent controls.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On model-based time trend adjustments in platform trials with non-concurrent controls</title>
