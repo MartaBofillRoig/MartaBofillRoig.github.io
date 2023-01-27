@@ -5,12 +5,21 @@
     <link>https://academic-demo.netlify.app/author/lasse-fischer/</link>
       <atom:link href="https://academic-demo.netlify.app/author/lasse-fischer/index.xml" rel="self" type="application/rss+xml" />
     <description>Lasse Fischer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Lasse Fischer</title>
       <link>https://academic-demo.netlify.app/author/lasse-fischer/</link>
     </image>
+    
+    <item>
+      <title>An Adaptive Discard Graph for online error control</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/fbb_2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/fbb_2023/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In recent years, graphical multiple testing procedures have gained popularity due to their generality and ease of interpretation. In contemporary research, online error control is often required, where an error criterion, such as familywise error rate (FWER) or false discovery rate (FDR), shall remain under control while testing an a priori unbounded sequence of hypotheses. Although the classical graphical procedure can be extended to the online setting, previous work has shown that it leads to low power, and other approaches, such as Adaptive-Discard (ADDIS) procedures, are preferred instead. In this paper, we introduce an ADDIS-Graph with FWER control and its extension for the FDR setting.   These graphical ADDIS procedures combine the good interpretability of graphical procedures with the high online power of ADDIS procedures. Moreover, they can be adapted to a local dependence structure and an asynchronous testing setup, leading to power improvements over the current state-of-art methods. Consequently, the proposed methods are useful for a wide range of applications, including innovative complex trial designs, such as platform trials, and large-scale test designs, such as in the evaluation of A/B tests for marketing research.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Online Closure Principle</title>
