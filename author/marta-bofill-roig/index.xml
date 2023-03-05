@@ -5,12 +5,21 @@
     <link>https://academic-demo.netlify.app/author/marta-bofill-roig/</link>
       <atom:link href="https://academic-demo.netlify.app/author/marta-bofill-roig/index.xml" rel="self" type="application/rss+xml" />
     <description>Marta Bofill Roig</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Marta Bofill Roig</title>
       <link>https://academic-demo.netlify.app/author/marta-bofill-roig/</link>
     </image>
+    
+    <item>
+      <title>NCC: An R-package for analysis and simulation of platform trials with non-concurrent controls</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/kb_2023/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/kb_2023/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Platform trials evaluate the efficacy of multiple treatments, allowing for late entry of the experimental arms and enabling efficiency gains by sharing controls. The power of individual treatment-control comparisons in such trials can be improved by utilizing non-concurrent controls in the analysis. We present the R-package NCC for the design and analysis of platform trials using non-concurrent controls. NCC allows for simulating platform trials and evaluating the properties of analysis methods that make use of non-concurrent controls in a variety of settings. We describe the main NCC functions and show how to use the package to simulate and analyse platform trials by means of specific examples.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An Adaptive Discard Graph for online error control</title>
