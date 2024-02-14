@@ -418,7 +418,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-789243561&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-658294173&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -428,7 +428,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-789243561&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-658294173&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -866,6 +866,14 @@ Three
     </item>
     
     <item>
+      <title>CompARE</title>
+      <link>https://academic-demo.netlify.app/project/compare/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/compare/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EU-PEARL</title>
       <link>https://academic-demo.netlify.app/project/eupearl/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -886,6 +894,14 @@ Three
       <link>https://academic-demo.netlify.app/project/grbio/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/project/grbio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NCC</title>
+      <link>https://academic-demo.netlify.app/project/ncc/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/ncc/</guid>
       <description></description>
     </item>
     
