@@ -5,12 +5,20 @@
     <link>https://academic-demo.netlify.app/publication/</link>
       <atom:link href="https://academic-demo.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://academic-demo.netlify.app/publication/</link>
     </image>
+    
+    <item>
+      <title>Optimal allocation strategies in platform trials with continuous endpoints</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/bgmp_2023/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/bgmp_2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An exhaustive ADDIS principle for online FWER control</title>
@@ -19,14 +27,6 @@
       <guid>https://academic-demo.netlify.app/publication/journal-article/fbb_2023b/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this paper we consider online multiple testing with familywise error rate (FWER) control, where the probability of committing at least one type I error shall remain under control while testing a possibly infinite sequence of hypotheses over time. Currently, Adaptive-Discard (ADDIS) procedures seem to be the most promising online procedures with FWER control in terms of power. Now, our main contribution is a uniform improvement of the ADDIS principle and thus of all ADDIS procedures. This means, the methods we propose reject as least as much hypotheses as ADDIS procedures and in some cases even more, while maintaining FWER control. In addition, we show that our principle cannot be further uniformly improved. Finally, we apply the new principle to derive uniform improvements of the ADDIS-Spending and ADDIS-Graph.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Optimal allocation strategies in platform trials</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/bgmp_2023/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/bgmp_2023/</guid>
-      <description></description>
     </item>
     
     <item>

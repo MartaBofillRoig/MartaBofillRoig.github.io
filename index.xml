@@ -128,20 +128,20 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Optimal allocation strategies in platform trials with continuous endpoints</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/bgmp_2023/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/bgmp_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An exhaustive ADDIS principle for online FWER control</title>
       <link>https://academic-demo.netlify.app/publication/journal-article/fbb_2023b/</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/journal-article/fbb_2023b/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this paper we consider online multiple testing with familywise error rate (FWER) control, where the probability of committing at least one type I error shall remain under control while testing a possibly infinite sequence of hypotheses over time. Currently, Adaptive-Discard (ADDIS) procedures seem to be the most promising online procedures with FWER control in terms of power. Now, our main contribution is a uniform improvement of the ADDIS principle and thus of all ADDIS procedures. This means, the methods we propose reject as least as much hypotheses as ADDIS procedures and in some cases even more, while maintaining FWER control. In addition, we show that our principle cannot be further uniformly improved. Finally, we apply the new principle to derive uniform improvements of the ADDIS-Spending and ADDIS-Graph.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Optimal allocation strategies in platform trials</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/bgmp_2023/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/bgmp_2023/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -418,7 +418,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-658294173&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-841259736&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -428,7 +428,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-658294173&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-841259736&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
