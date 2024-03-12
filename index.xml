@@ -128,20 +128,20 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>An exhaustive ADDIS principle for online FWER control</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/fbb_2023b/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/fbb_2023b/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this paper we consider online multiple testing with familywise error rate (FWER) control, where the probability of committing at least one type I error shall remain under control while testing a possibly infinite sequence of hypotheses over time. Currently, Adaptive-Discard (ADDIS) procedures seem to be the most promising online procedures with FWER control in terms of power. Now, our main contribution is a uniform improvement of the ADDIS principle and thus of all ADDIS procedures. This means, the methods we propose reject as least as much hypotheses as ADDIS procedures and in some cases even more, while maintaining FWER control. In addition, we show that our principle cannot be further uniformly improved. Finally, we apply the new principle to derive uniform improvements of the ADDIS-Spending and ADDIS-Graph.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Optimal allocation strategies in platform trials with continuous endpoints</title>
       <link>https://academic-demo.netlify.app/publication/journal-article/bgmp_2023/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/journal-article/bgmp_2023/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An exhaustive ADDIS principle for online FWER control</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/fbb_2023b/</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/fbb_2023b/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this paper we consider online multiple testing with familywise error rate (FWER) control, where the probability of committing at least one type I error shall remain under control while testing a possibly infinite sequence of hypotheses over time. Currently, Adaptive-Discard (ADDIS) procedures seem to be the most promising online procedures with FWER control in terms of power. Now, our main contribution is a uniform improvement of the ADDIS principle and thus of all ADDIS procedures. This means, the methods we propose reject as least as much hypotheses as ADDIS procedures and in some cases even more, while maintaining FWER control. In addition, we show that our principle cannot be further uniformly improved. Finally, we apply the new principle to derive uniform improvements of the ADDIS-Spending and ADDIS-Graph.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -159,15 +159,6 @@ The variance of the distribution is $\sigma^{2}$.
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/journal-article/fbb_2023/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In recent years, graphical multiple testing procedures have gained popularity due to their generality and ease of interpretation. In contemporary research, online error control is often required, where an error criterion, such as familywise error rate (FWER) or false discovery rate (FDR), shall remain under control while testing an a priori unbounded sequence of hypotheses. Although the classical graphical procedure can be extended to the online setting, previous work has shown that it leads to low power, and other approaches, such as Adaptive-Discard (ADDIS) procedures, are preferred instead. In this paper, we introduce an ADDIS-Graph with FWER control and its extension for the FDR setting.   These graphical ADDIS procedures combine the good interpretability of graphical procedures with the high online power of ADDIS procedures. Moreover, they can be adapted to a local dependence structure and an asynchronous testing setup, leading to power improvements over the current state-of-art methods. Consequently, the proposed methods are useful for a wide range of applications, including innovative complex trial designs, such as platform trials, and large-scale test designs, such as in the evaluation of A/B tests for marketing research.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Online Closure Principle</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/fbb_2022/</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/fbb_2022/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The closure principle is fundamental in multiple testing and has been used to derive many efficient procedures with familywise error rate control. However, it is often not suitable for modern research, as more flexible multiple testing settings are considered where not all hypotheses are known at the beginning of the evaluation. In this paper, we focus on online multiple testing where a possibly infinite sequence of hypotheses is tested over time. At each step, it must be decided on the current hypothesis without having any information about the hypotheses that have not been tested yet. Our main contribution is a new online closure principle which ensures that the resulting closed procedure can be applied in the online setting. We prove that any familywise error rate (FWER) controlling online procedure can be derived by this online closure principle. In addition, we demonstrate how short-cuts of these online closed procedures can be obtained under a suitable consonance property and apply the results in order to construct new online multiple testing methods. Finally, the new online closure principle is used to derive an improvement of the currently most promising online procedure with FWER control, the ADDIS-Spending under local dependence.&lt;/p&gt;
 </description>
     </item>
     
@@ -237,15 +228,6 @@ The efficiency gained by using step function models to incorporate NCC can outwe
       <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/journal-article/bkmp_2022/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Platform trials and the future of evaluating therapeutic behavioural interventions</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/bp_2022/</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/bp_2022/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Therapeutic interventions are typically evaluated in individual, parallel group trials, which are time consuming and provide limited information on comparative efficacy. Clinical psychology should leverage advances in other fields to improve and accelerate the evaluation process by adopting more efficient platform trials.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -418,7 +400,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-458763219&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-458362971&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -428,7 +410,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-458763219&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-458362971&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

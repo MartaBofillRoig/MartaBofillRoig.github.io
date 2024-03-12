@@ -5,7 +5,7 @@
     <link>https://academic-demo.netlify.app/publication-type/2/</link>
       <atom:link href="https://academic-demo.netlify.app/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -13,11 +13,56 @@
     </image>
     
     <item>
+      <title>An exhaustive ADDIS principle for online FWER control</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/fbb_2023b/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/fbb_2023b/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In this paper we consider online multiple testing with familywise error rate (FWER) control, where the probability of committing at least one type I error shall remain under control while testing a possibly infinite sequence of hypotheses over time. Currently, Adaptive-Discard (ADDIS) procedures seem to be the most promising online procedures with FWER control in terms of power. Now, our main contribution is a uniform improvement of the ADDIS principle and thus of all ADDIS procedures. This means, the methods we propose reject as least as much hypotheses as ADDIS procedures and in some cases even more, while maintaining FWER control. In addition, we show that our principle cannot be further uniformly improved. Finally, we apply the new principle to derive uniform improvements of the ADDIS-Spending and ADDIS-Graph.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Optimal allocation strategies in platform trials with continuous endpoints</title>
       <link>https://academic-demo.netlify.app/publication/journal-article/bgmp_2023/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/journal-article/bgmp_2023/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>NCC: An R-package for analysis and simulation of platform trials with non-concurrent controls</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/kb_2023/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/kb_2023/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Platform trials evaluate the efficacy of multiple treatments, allowing for late entry of the experimental arms and enabling efficiency gains by sharing controls. The power of individual treatment-control comparisons in such trials can be improved by utilizing non-concurrent controls in the analysis. We present the R-package NCC for the design and analysis of platform trials using non-concurrent controls. NCC allows for simulating platform trials and evaluating the properties of analysis methods that make use of non-concurrent controls in a variety of settings. We describe the main NCC functions and show how to use the package to simulate and analyse platform trials by means of specific examples.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On the use of non-concurrent controls in platform trials: A scoping review</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/bh_2022/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/bh_2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Platform trials gained popularity during the last few years as they increase flexibility compared to multi-arm trials by allowing new experimental arms entering when the trial already started. Using a shared control group in platform trials increases the trial efficiency compared to separate trials.
+Because of the later entry of some of the experimental treatment arms, the
+shared control group includes concurrent and non-concurrent control data. For a
+given experimental arm, non-concurrent controls refer to patients allocated to
+the control arm before the arm enters the trial, while concurrent controls
+refer to control patients that are randomised concurrently to the experimental
+arm. Using non-concurrent controls can result in bias in the estimate in case
+of time trends if the appropriate methodology is not used and the assumptions
+are not met. In this paper, we faced two main objectives. In the first, we
+aimed to identify the methods currently available for incorporating
+non-concurrent controls, clarify the key concepts and assumptions, and name the
+main characteristics of each method. For this purpose, we systematically
+searched research articles on methods to include non-concurrent controls. The
+second objective is to summarise the current regulatory view on non-concurrent
+controls to clarify the key concepts and current guidance. Therefore, we
+conducted a systematic search in regulatory guidelines regarding using
+non-concurrent controls and summarised the most relevant arguments and
+recommended methods. Finally, we discuss the advantages and potential caveats
+of using non-concurrent controls.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -48,15 +93,6 @@ The efficiency gained by using step function models to incorporate NCC can outwe
       <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/journal-article/bkmp_2022/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Platform trials and the future of evaluating therapeutic behavioural interventions</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/bp_2022/</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/bp_2022/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Therapeutic interventions are typically evaluated in individual, parallel group trials, which are time consuming and provide limited information on comparative efficacy. Clinical psychology should leverage advances in other fields to improve and accelerate the evaluation process by adopting more efficient platform trials.&lt;/p&gt;
-</description>
     </item>
     
     <item>
