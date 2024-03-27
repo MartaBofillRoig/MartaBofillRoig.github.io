@@ -5,12 +5,21 @@
     <link>https://academic-demo.netlify.app/author/lasse-fischer/</link>
       <atom:link href="https://academic-demo.netlify.app/author/lasse-fischer/index.xml" rel="self" type="application/rss+xml" />
     <description>Lasse Fischer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Lasse Fischer</title>
       <link>https://academic-demo.netlify.app/author/lasse-fischer/</link>
     </image>
+    
+    <item>
+      <title>The Online Closure Principle</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/fbb_2022/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/fbb_2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The closure principle is fundamental in multiple testing and has been used to derive many efficient procedures with familywise error rate control. However, it is often not suitable for modern research, as more flexible multiple testing settings are considered where not all hypotheses are known at the beginning of the evaluation. In this paper, we focus on online multiple testing where a possibly infinite sequence of hypotheses is tested over time. At each step, it must be decided on the current hypothesis without having any information about the hypotheses that have not been tested yet. Our main contribution is a new online closure principle which ensures that the resulting closed procedure can be applied in the online setting. We prove that any familywise error rate (FWER) controlling online procedure can be derived by this online closure principle. In addition, we demonstrate how short-cuts of these online closed procedures can be obtained under a suitable consonance property and apply the results in order to construct new online multiple testing methods. Finally, the new online closure principle is used to derive an improvement of the currently most promising online procedure with FWER control, the ADDIS-Spending under local dependence.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An exhaustive ADDIS principle for online FWER control</title>

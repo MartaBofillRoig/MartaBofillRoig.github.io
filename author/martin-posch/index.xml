@@ -5,12 +5,20 @@
     <link>https://academic-demo.netlify.app/author/martin-posch/</link>
       <atom:link href="https://academic-demo.netlify.app/author/martin-posch/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Posch</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Martin Posch</title>
       <link>https://academic-demo.netlify.app/author/martin-posch/</link>
     </image>
+    
+    <item>
+      <title>Statistical modeling to adjust for time trends in adaptive platform trials utilizing non-concurrent controls</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/pk_2024/</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/pk_2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Optimal allocation strategies in platform trials with continuous endpoints</title>
