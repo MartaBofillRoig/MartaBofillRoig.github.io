@@ -417,7 +417,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-367519284&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-596142783&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -427,7 +427,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-367519284&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-596142783&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -862,6 +862,14 @@ Three
       <guid>https://academic-demo.netlify.app/publication/journal-article/bg_2017/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; The choice of a primary endpoint is an important issue when designing a clinical trial. It is common to use composite endpoints as a primary endpoint because it increases the number of observed events, captures more information and is expected to increase the power. However, combining events that have no similar clinical importance and have different treatment effects makes the interpretation of the results cumbersome and might reduce the power of the corresponding tests. Gómez and Lagakos proposed the ARE (asymptotic relative efficiency) method to choose between a composite or one of its components as primary endpoint comparing the efficacy of a treatment based on the times to each of these endpoints. The aim of this paper is to expand the ARE method to binary endpoints. We show that the ARE method depends on six parameters including the degree of association between components, event proportion, and effect of therapy given by the corresponding odds ratio of the single endpoints. A case study is presented to illustrate the methodology. We conclude with efficient guidelines for discerning which could be the best suited primary endpoint given anticipated parameters.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>ADMTP</title>
+      <link>https://academic-demo.netlify.app/project/admtp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/project/admtp/</guid>
+      <description></description>
     </item>
     
     <item>
