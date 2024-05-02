@@ -417,7 +417,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-654872319&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-653179482&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -427,7 +427,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-654872319&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-653179482&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -869,7 +869,21 @@ Three
       <link>https://academic-demo.netlify.app/project/admtp/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/project/admtp/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Adaptive Designs and Multiple Testing Procedures Working Group&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Joint Working Group (Section) of the ROeS and the German Region of the IBS: &lt;a href=&#34;https://www.biometrische-gesellschaft.de/arbeitsgruppen/adaptive-designs-multiple-testing-procedures.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.biometrische-gesellschaft.de/arbeitsgruppen/adaptive-designs-multiple-testing-procedures.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The annual workshop in 2024 took place in Ibiza  from the 25th to 26th of April.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Website of the workshop &lt;a href=&#34;https://admtp.github.io/ADMTP2024/,&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://admtp.github.io/ADMTP2024/,&lt;/a&gt; with &lt;a href=&#34;https://admtp.github.io/ADMTP2024/gallery.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;photo gallery&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Twitter account at &lt;a href=&#34;https://twitter.com/ADMTP_IBS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://twitter.com/ADMTP_IBS&lt;/a&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Press coverage at &lt;a href=&#34;https://www.diariodeibiza.es/ibiza/2024/04/27/ensayo-clinico-congreso-ibiza-medicina-estadistica-101617901.html?utm_source=twitter&amp;amp;utm_medium=social&amp;amp;utm_campaign=dogtrack&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Diario de Ibiza&lt;/a&gt; and &lt;a href=&#34;https://www.noudiari.es/local-ibiza/ibiza-acoge-la-reunion-anual-del-grupo-admtp-de-la-sociedad-internacional-de-biometria/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nou Diari&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
@@ -877,7 +891,11 @@ Three
       <link>https://academic-demo.netlify.app/project/compare/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/project/compare/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://cinna.upc.edu/compare/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CompARE&lt;/a&gt; is a set of software tools for the design of trials with composite endpoint. CompARE includes Shiny Apps and an R package.&lt;/p&gt;
+&lt;p&gt;The Shiny apps are split into two apps for time-to-event and binary endpoints, respectively.  With its user-friendly interface, these Shiny apps allow to input the main parameters included in the trial -such as the treatment effect on the components of the composite endpoint, and its frequencies of occurrence- and helps provide power and sample size calculations among others.&lt;/p&gt;
+&lt;p&gt;The R package version includes the same features as the Shiny apps, plus others related to data simulation or multi-arm studies.
+You can also find the R-package version of CompARE in CRAN &lt;a href=&#34;https://CRAN.R-project.org/package=CompAREdesign&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CompAREdesign&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
