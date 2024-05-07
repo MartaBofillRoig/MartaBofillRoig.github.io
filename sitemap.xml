@@ -4,9 +4,15 @@
   
   
   <url>
+    <loc>https://academic-demo.netlify.app/courses/ct/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://academic-demo.netlify.app/courses/example/python/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>https://academic-demo.netlify.app/courses/ct/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>https://academic-demo.netlify.app/courses/example/visualization/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/courses/ct/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/courses/example/stats/</loc><lastmod>2021-01-01T00:00:00+00:00</lastmod></url>
   <url>
@@ -93,6 +99,8 @@
     <loc>https://academic-demo.netlify.app/author/elias-meyer/</loc><lastmod>2022-06-04T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/publication/journal-article/bg_2020/</loc><lastmod>2021-09-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>https://academic-demo.netlify.app/courses/ct/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
   <url>
     <loc>https://academic-demo.netlify.app/courses/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod></url>
   <url>
