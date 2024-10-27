@@ -223,6 +223,16 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Treatment-control comparisons in platform trials including non-concurrent controls</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/bp_2025/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/bp_2025/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; 
+Shared controls in platform trials comprise concurrent and non-concurrent controls. For a given experimental arm, non-concurrent controls refer to data from patients allocated to the control arm before the arm enters the trial. The use of non-concurrent controls in the analysis is attractive because it may increase the trial&amp;rsquo;s power of testing treatment differences while decreasing the sample size. However, since arms are added sequentially in the trial, randomization occurs at different times, which can introduce bias in the estimates due to time trends. In this article, we present methods to incorporate non-concurrent control data in treatment-control comparisons, allowing for time trends. We focus mainly on frequentist approaches that model the time trend and Bayesian strategies that limit the borrowing level depending on the heterogeneity between concurrent and non-concurrent controls. We examine the impact of time trends, overlap between experimental treatment arms and entry times of arms in the trial on the operating characteristics of treatment effect estimators for each method under different patterns for the time trends. We argue under which conditions the methods lead to type 1 error control and discuss the gain in power compared to trials only using concurrent controls by means of a simulation study in which methods are compared.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Online Closure Principle</title>
       <link>https://academic-demo.netlify.app/publication/journal-article/fbb_2022/</link>
       <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
@@ -512,7 +522,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-531768249&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-618495372&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -522,7 +532,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-531768249&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-618495372&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
