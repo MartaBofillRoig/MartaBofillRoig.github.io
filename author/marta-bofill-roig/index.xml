@@ -23,6 +23,17 @@ Shared controls in platform trials comprise concurrent and non-concurrent contro
     </item>
     
     <item>
+      <title>Design of Trials with Composite Endpoints with the R Package CompAREdesign</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/cbg_2022/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/cbg_2022/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt; 
+Composite endpoints are widely used as primary endpoints in clinical trials. Designing trials with time-to-event endpoints can be particularly challenging because the proportional hazard assumption usually does not hold when using a composite endpoint, even when the premise remains true for their components. Consequently, the conventional formulae for sample size calculation do not longer apply. We present the R package CompAREdesign by means of which the key elements of trial designs, such as the sample size and effect sizes, can be computed based on the information on the composite endpoint components. CompAREdesign provides the functions to 
+assess the sensitivity and robustness of design calculations to variations in initial values and assumptions. Furthermore, we describe other features of the package, such as functions for the design of trials with binary composite endpoints, and functions to simulate trials with composite endpoints under a wide range of scenarios.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Online Closure Principle</title>
       <link>https://academic-demo.netlify.app/publication/journal-article/fbb_2022/</link>
       <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
@@ -108,17 +119,6 @@ of using non-concurrent controls.&lt;/p&gt;
       <guid>https://academic-demo.netlify.app/publication/journal-article/bgpk_2022/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; For randomized clinical trials where a single, primary, binary endpoint would require unfeasibly large sample sizes, composite endpoints are widely chosen as the primary endpoint. Despite being commonly used, composite endpoints entail challenges in designing and interpreting results. Given that the components may be of different relevance and have different effect sizes, the choice of components must be made carefully. Especially, sample size calculations for composite binary endpoints depend not only on the anticipated effect sizes and event probabilities of the composite components, but also on the correlation between them. However, information on the correlation between endpoints is usually not reported in the literature which can be an obstacle for planning of future sound trial design. 
 We consider two-arm randomized controlled trials with a primary composite binary endpoint and an endpoint that consists only of the clinically more important component of the composite endpoint. We propose a trial design that allows an adaptive modification of the primary endpoint based on blinded information obtained at an interim analysis. Especially, we consider a decision rule to select between a composite endpoint and its most relevant component as primary endpoint. The decision rule chooses the endpoint with the lower estimated required sample size. Additionally, the sample size is reassessed using the estimated event probabilities and correlation, and the expected effect sizes of the composite components. We investigate the statistical power and significance level under the proposed design through simulations. We show that the adaptive design is equally or more powerful than designs without adaptive modification on the primary endpoint. Besides, the targeted power is achieved even if the correlation is misspecified at the planning stage while maintaining the type 1 error. All the computations are implemented in R and illustrated by means of a peritoneal dialysis trial.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Design of Trials with Composite Endpoints with the R Package CompAREdesign</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/cbg_2022/</link>
-      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/cbg_2022/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt; 
-Composite endpoints are widely used as primary endpoints in clinical trials. Designing trials with time-to-event endpoints can be particularly challenging because the proportional hazard assumption usually does not hold when using a composite endpoint, even when the premise remains true for their components. Consequently, the conventional formulae for sample size calculation do not longer apply. We present the R package CompAREdesign by means of which the key elements of trial designs, such as the sample size and effect sizes, can be computed based on the information on the composite endpoint components. CompAREdesign provides the functions to 
-assess the sensitivity and robustness of design calculations to variations in initial values and assumptions. Furthermore, we describe other features of the package, such as functions for the design of trials with binary composite endpoints, and functions to simulate trials with composite endpoints under a wide range of scenarios.&lt;/p&gt;
 </description>
     </item>
     
