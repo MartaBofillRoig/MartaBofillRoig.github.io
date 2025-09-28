@@ -223,6 +223,23 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>On the inclusion of non-concurrent controls in platform trials with a futility interim analysis</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/pk_2025/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/pk_2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADDIS-Graphs for online error control with application to platform trials</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/fbb_2023/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/fbb_2023/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In contemporary research, online error control is often required, where an error criterion, such as familywise error rate (FWER) or false discovery rate (FDR), shall remain under control while testing an a priori unbounded sequence of hypotheses. The existing online literature mainly considered large-scale designs and constructed blackbox-like algorithms for these. However, smaller studies, such as platform trials, require high flexibility and easy interpretability to take study objectives into account and facilitate the communication. Another challenge in platform trials is that due to the shared control arm some of the p-values are dependent and significance levels need to be prespecified before the decisions for all the past treatments are available. We propose ADDIS-Graphs with FWER control that due to their graphical structure perfectly adapt to such settings and provably uniformly improve the state-of-the-art method. We introduce several extensions of these ADDIS-Graphs, including the incorporation of information about the joint distribution of the p-values and a version for FDR control.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Treatment-control comparisons in platform trials including non-concurrent controls</title>
       <link>https://academic-demo.netlify.app/publication/journal-article/bp_2025/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
@@ -283,15 +300,6 @@ assess the sensitivity and robustness of design calculations to variations in in
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://academic-demo.netlify.app/publication/journal-article/kb_2023/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Platform trials evaluate the efficacy of multiple treatments, allowing for late entry of the experimental arms and enabling efficiency gains by sharing controls. The power of individual treatment-control comparisons in such trials can be improved by utilizing non-concurrent controls in the analysis. We present the R-package NCC for the design and analysis of platform trials using non-concurrent controls. NCC allows for simulating platform trials and evaluating the properties of analysis methods that make use of non-concurrent controls in a variety of settings. We describe the main NCC functions and show how to use the package to simulate and analyse platform trials by means of specific examples.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An Adaptive Discard Graph for online error control</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/fbb_2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/fbb_2023/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; In recent years, graphical multiple testing procedures have gained popularity due to their generality and ease of interpretation. In contemporary research, online error control is often required, where an error criterion, such as familywise error rate (FWER) or false discovery rate (FDR), shall remain under control while testing an a priori unbounded sequence of hypotheses. Although the classical graphical procedure can be extended to the online setting, previous work has shown that it leads to low power, and other approaches, such as Adaptive-Discard (ADDIS) procedures, are preferred instead. In this paper, we introduce an ADDIS-Graph with FWER control and its extension for the FDR setting.   These graphical ADDIS procedures combine the good interpretability of graphical procedures with the high online power of ADDIS procedures. Moreover, they can be adapted to a local dependence structure and an asynchronous testing setup, leading to power improvements over the current state-of-art methods. Consequently, the proposed methods are useful for a wide range of applications, including innovative complex trial designs, such as platform trials, and large-scale test designs, such as in the evaluation of A/B tests for marketing research.&lt;/p&gt;
 </description>
     </item>
     
@@ -522,7 +530,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-961253784&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-635148927&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -532,7 +540,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-961253784&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-635148927&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
